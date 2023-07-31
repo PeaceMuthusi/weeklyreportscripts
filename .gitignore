@@ -1,0 +1,7 @@
+raw_files/
+OP/
+unused/
+*.pkl
+sent/
+Test/
+crm_received/ 
